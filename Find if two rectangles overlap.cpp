@@ -4,7 +4,7 @@ int solve(int a,int b,int c,int d,int e,int f,int g,int h)
 {
     if(a>=g||e>=c)
         return 0;
-    if(f>=d}}b>=h)
+    if(f>=d||b>=h)
         return 0;
     return 1;
 
